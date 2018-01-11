@@ -14,6 +14,7 @@
 		3B2A88402007441B0017F2FA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3B2A883E2007441B0017F2FA /* LaunchScreen.storyboard */; };
 		3B2A884C20074F640017F2FA /* CategoryTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B2A884B20074F640017F2FA /* CategoryTableViewCell.swift */; };
 		3B2A884E200752370017F2FA /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B2A884D200752370017F2FA /* Category.swift */; };
+		3B2A88512007546A0017F2FA /* Dataservices.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B2A88502007546A0017F2FA /* Dataservices.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		3B2A88412007441B0017F2FA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3B2A884B20074F640017F2FA /* CategoryTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryTableViewCell.swift; sourceTree = "<group>"; };
 		3B2A884D200752370017F2FA /* Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
+		3B2A88502007546A0017F2FA /* Dataservices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dataservices.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 		3B2A88342007441B0017F2FA /* CoderSwagApp */ = {
 			isa = PBXGroup;
 			children = (
+				3B2A884F200754430017F2FA /* Services */,
 				3B2A884A20074EEC0017F2FA /* Views */,
 				3B2A884920074EE40017F2FA /* Model */,
 				3B2A8848200744F50017F2FA /* Controller */,
@@ -92,6 +95,14 @@
 				3B2A884B20074F640017F2FA /* CategoryTableViewCell.swift */,
 			);
 			path = Views;
+			sourceTree = "<group>";
+		};
+		3B2A884F200754430017F2FA /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				3B2A88502007546A0017F2FA /* Dataservices.swift */,
+			);
+			path = Services;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -170,6 +181,7 @@
 				3B2A88362007441B0017F2FA /* AppDelegate.swift in Sources */,
 				3B2A884C20074F640017F2FA /* CategoryTableViewCell.swift in Sources */,
 				3B2A884E200752370017F2FA /* Category.swift in Sources */,
+				3B2A88512007546A0017F2FA /* Dataservices.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

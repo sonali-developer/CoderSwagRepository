@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoderSwagApp/Controller/CategoriesViewController.swift"
+            timestampString = "537356667.825123"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoderSwagApp.CategoriesViewController.__deallocating_deinit"
+                  moduleName = "CoderSwagApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonalipatel/Desktop/Xcode9BetaApps/iOS11AppsFolder/CoderSwagProject/CoderSwagRepository/CoderSwagApp/CoderSwagApp/Controller/CategoriesViewController.swift"
+                  timestampString = "537355461.827634"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoderSwagApp.CategoriesViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; CoderSwagApp.CategoriesViewController"
+                  moduleName = "CoderSwagApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonalipatel/Desktop/Xcode9BetaApps/iOS11AppsFolder/CoderSwagProject/CoderSwagRepository/CoderSwagApp/CoderSwagApp/Controller/CategoriesViewController.swift"
+                  timestampString = "537355461.831943"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoderSwagApp.CategoriesViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; CoderSwagApp.CategoriesViewController"
+                  moduleName = "CoderSwagApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonalipatel/Desktop/Xcode9BetaApps/iOS11AppsFolder/CoderSwagProject/CoderSwagRepository/CoderSwagApp/CoderSwagApp/Controller/CategoriesViewController.swift"
+                  timestampString = "537355461.834585"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoderSwagApp.CategoriesViewController.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;CoderSwagApp.CategoriesViewController&gt;"
+                  moduleName = "CoderSwagApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonalipatel/Desktop/Xcode9BetaApps/iOS11AppsFolder/CoderSwagProject/CoderSwagRepository/CoderSwagApp/CoderSwagApp/Controller/CategoriesViewController.swift"
+                  timestampString = "537355461.837321"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoderSwagApp.CategoriesViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;CoderSwagApp.CategoriesViewController&gt;"
+                  moduleName = "CoderSwagApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonalipatel/Desktop/Xcode9BetaApps/iOS11AppsFolder/CoderSwagProject/CoderSwagRepository/CoderSwagApp/CoderSwagApp/Controller/CategoriesViewController.swift"
+                  timestampString = "537355461.840044"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "46">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
