@@ -15,6 +15,8 @@
 		3B2A884C20074F640017F2FA /* CategoryTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B2A884B20074F640017F2FA /* CategoryTableViewCell.swift */; };
 		3B2A884E200752370017F2FA /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B2A884D200752370017F2FA /* Category.swift */; };
 		3B2A88512007546A0017F2FA /* Dataservices.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B2A88502007546A0017F2FA /* Dataservices.swift */; };
+		3B2A8855200830910017F2FA /* ProductCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B2A8854200830910017F2FA /* ProductCollectionViewCell.swift */; };
+		3B2A88572008367F0017F2FA /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B2A88562008367F0017F2FA /* Product.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +30,8 @@
 		3B2A884B20074F640017F2FA /* CategoryTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryTableViewCell.swift; sourceTree = "<group>"; };
 		3B2A884D200752370017F2FA /* Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
 		3B2A88502007546A0017F2FA /* Dataservices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dataservices.swift; sourceTree = "<group>"; };
+		3B2A8854200830910017F2FA /* ProductCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductCollectionViewCell.swift; sourceTree = "<group>"; };
+		3B2A88562008367F0017F2FA /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +89,7 @@
 			isa = PBXGroup;
 			children = (
 				3B2A884D200752370017F2FA /* Category.swift */,
+				3B2A88562008367F0017F2FA /* Product.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -93,6 +98,7 @@
 			isa = PBXGroup;
 			children = (
 				3B2A884B20074F640017F2FA /* CategoryTableViewCell.swift */,
+				3B2A8854200830910017F2FA /* ProductCollectionViewCell.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -181,7 +187,9 @@
 				3B2A88362007441B0017F2FA /* AppDelegate.swift in Sources */,
 				3B2A884C20074F640017F2FA /* CategoryTableViewCell.swift in Sources */,
 				3B2A884E200752370017F2FA /* Category.swift in Sources */,
+				3B2A8855200830910017F2FA /* ProductCollectionViewCell.swift in Sources */,
 				3B2A88512007546A0017F2FA /* Dataservices.swift in Sources */,
+				3B2A88572008367F0017F2FA /* Product.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
