@@ -17,6 +17,7 @@
 		3B2A88512007546A0017F2FA /* Dataservices.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B2A88502007546A0017F2FA /* Dataservices.swift */; };
 		3B2A8855200830910017F2FA /* ProductCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B2A8854200830910017F2FA /* ProductCollectionViewCell.swift */; };
 		3B2A88572008367F0017F2FA /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B2A88562008367F0017F2FA /* Product.swift */; };
+		3B2A885920084A400017F2FA /* ProductsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B2A885820084A400017F2FA /* ProductsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		3B2A88502007546A0017F2FA /* Dataservices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dataservices.swift; sourceTree = "<group>"; };
 		3B2A8854200830910017F2FA /* ProductCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductCollectionViewCell.swift; sourceTree = "<group>"; };
 		3B2A88562008367F0017F2FA /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
+		3B2A885820084A400017F2FA /* ProductsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 			isa = PBXGroup;
 			children = (
 				3B2A88372007441B0017F2FA /* CategoriesViewController.swift */,
+				3B2A885820084A400017F2FA /* ProductsViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -185,6 +188,7 @@
 			files = (
 				3B2A88382007441B0017F2FA /* CategoriesViewController.swift in Sources */,
 				3B2A88362007441B0017F2FA /* AppDelegate.swift in Sources */,
+				3B2A885920084A400017F2FA /* ProductsViewController.swift in Sources */,
 				3B2A884C20074F640017F2FA /* CategoryTableViewCell.swift in Sources */,
 				3B2A884E200752370017F2FA /* Category.swift in Sources */,
 				3B2A8855200830910017F2FA /* ProductCollectionViewCell.swift in Sources */,
@@ -328,6 +332,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 9TAUJ4K4VL;
+				EMBED_ASSET_PACKS_IN_PRODUCT_BUNDLE = YES;
 				INFOPLIST_FILE = CoderSwagApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = edu.self.developer.sonali.CoderSwagApp;
@@ -343,6 +348,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 9TAUJ4K4VL;
+				EMBED_ASSET_PACKS_IN_PRODUCT_BUNDLE = YES;
 				INFOPLIST_FILE = CoderSwagApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = edu.self.developer.sonali.CoderSwagApp;
